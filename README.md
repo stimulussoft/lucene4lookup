@@ -1,6 +1,6 @@
-# lucene4lookup
+# Lucene V4 Lookup Test
 
-Test Speed of Lucene 4 vs Lucene 8 lookups. 
+Test Speed of Lucene v4 vs Lucene v8 ID lookups using TermsFilter
 
 Lucene 8
 
